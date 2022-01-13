@@ -3,7 +3,7 @@ Code for the paper *
 
 ### Main musci generate flow chart
 <p align="center">
-  <img width="800" src="view_diagram/Automatic composition framework.png">
+  <img width="800" src="view_diagram/structure main.png">
 </p>
 ### Chords statistics
 <p align="center">
