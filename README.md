@@ -1,6 +1,15 @@
 # MCSF-MD: Research on automatic composition of separation and refusion based on Transformer
 Code for the paper *
 
+### Main musci generate flow chart
+<p align="center">
+  <img width="600" src="view_diagram/results.png">
+</p>
+### Chords statistics
+<p align="center">
+  <img width="400" src="view_diagram/results.png">
+</p>
+### Genreat results
 <p align="center">
   <img width="600" src="results.png">
 </p>
