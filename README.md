@@ -19,9 +19,9 @@ python >= 3.6   music21
 
 ### Data Download
 
-- Install [Music21](https). Ensure, you can pip install music21 ```music21``` and you can learn from [Music21 tools](http://web.mit.edu/music21/)    
+- Install [Music21](https://pypi.org/project/music163/). Ensure, you can pip install music21 ```music21``` and you can learn from [Music21 tools](http://web.mit.edu/music21/).    
 - Option 1: Download [LYH-checkpoint](https://drive.google.com/drive/folders/1T8dGldM-U6LSBot1aZesZ3beFg_veSwG) and place the home folder.     
-- Option 2: Train by youself.
+- Option 2: Train the checkpoint model by youself. See Running the code.
 
 ### Running the code
 
