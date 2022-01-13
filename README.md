@@ -3,15 +3,15 @@ Code for the paper *
 
 ### Main musci generate flow chart
 <p align="center">
-  <img width="600" src="view_diagram/results.png">
+  <img width="800" src="view_diagram/Automatic composition framework.png">
 </p>
 ### Chords statistics
 <p align="center">
-  <img width="400" src="view_diagram/results.png">
+  <img width="400" src="view_diagram/Chord type scale diagram.jpg">
 </p>
 ### Genreat results
 <p align="center">
-  <img width="600" src="results.png">
+  <img width="800" src="results.png">
 </p>
 
 ### Setup the environment
